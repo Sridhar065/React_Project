@@ -1,0 +1,50 @@
+
+
+
+h2{
+    font-family: Sans-serif; 
+    font-size: 2rem;     
+    font-style: normal; 
+    font-weight: bold; 
+    color: blue;
+    padding-left: 2.5em;
+    /* text-align: center;  */
+    /* margin-bottom: 50px; */
+    /* text-decoration: underline */
+   }
+   .srs{
+    font-family: verdana; 
+    color:rgba(17, 16, 16, 0.938); 
+    font-size: 16px; 
+    font-style: normal;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #64ddaf 0%, #e0fd3a 100%);  
+    width: 50%;
+    height: 50vh;
+    padding: 16px 20px;
+    /* padding-left:45em; */
+    /* border-collapse: collapse; 
+    border: 4px solid #000000;
+    border-style: dashed; */
+     
+   }
+   table.inner{
+    border: 10px;
+   }
+   input[type=text], input[type=email], input[type=number]{
+    width: 100%;
+    padding: 6px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+  
+   }
+   input[type=submit], input[type=reset]{
+    width: 100%;
+    padding: 50px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+   }
+
+   .sec{
+       padding-left: 220px;
+   }
